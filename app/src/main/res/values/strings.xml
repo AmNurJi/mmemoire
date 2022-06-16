@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelpNi</string>
+    <string name="helpni">HelpNi</string>
+    <string name="dont_have_account">Don\'t have an account ?</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log in</string>
+    <string name="lost_pswd">Lost password ?</string>
+    <string name="create_your_account">Create your Account</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="do_you_wan_register_as">Do you want to register as :</string>
+    <string name="association">Association</string>
+    <string name="an_association">An association</string>
+    <string name="signal_man">Signalman</string>
+    <string name="signalman">Signalman</string>
+    <string name="signalm">A signalman</string>
+    <string name="or_as">Or as :</string>
+    <string name="register_as">Register as :</string>
+    <string name="select">Select Item</string>
+</resources>
